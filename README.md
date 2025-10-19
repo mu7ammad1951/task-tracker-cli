@@ -83,3 +83,5 @@ Update an existing task:
 ```bash
 $ todo update 1 "Finalize the main logic"
 ```
+
+Credits: https://roadmap.sh/projects/task-tracker
